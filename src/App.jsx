@@ -2,8 +2,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
-      this is app
+    <div style={{ color: 'blue', fontSize: '24px', fontWeight: 'bold' }}>
+      Standard CSS Example
     </div>
   )
 }
